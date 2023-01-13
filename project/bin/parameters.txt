@@ -1,0 +1,2 @@
+qrcode.png qr.png 1 0 0 640 640 qrdecode
+myqr_light.png qr_light.png 1 1200 750 1800 1600 qrdecode
